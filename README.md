@@ -109,10 +109,6 @@ At first I didn't really understand what the filters meant. After trying differe
 
 I also learned why searching logs matters in cybersecurity. It helps me find useful information in a lot of data.
 
-## What I want to do next
-
-I want to try the malware investigation part of the lab, where I can practice finding suspicious activity in server logs.
-
 ## Credit
 
 The lab and sample data are from [CodePath's open source Splunk Lab](https://github.com/codepath/opencyber-splunk-lab). This README documents my practice and results.
