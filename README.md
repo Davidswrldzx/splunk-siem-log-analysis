@@ -1,4 +1,4 @@
-# My Splunk SIEM Lab Project
+# Splunk Search Practice
 
 ## About this project
 
